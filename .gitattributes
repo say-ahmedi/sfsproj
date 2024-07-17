@@ -1,0 +1,17 @@
+*.forceignore text eol=lf
+*.gitignore text eol=lf
+.husky/pre-commit text eol=lf
+*.prettierignore text eol=lf
+*.prettierrc text eol=lf
+.vscode/extensions.json text eol=lf
+.vscode/launch.json text eol=lf
+.vscode/settings.json text eol=lf
+config/project-scratch-def.json text eol=lf
+force-app/main/default/aura/.eslintrc.json text eol=lf
+force-app/main/default/lwc/.eslintrc.json text eol=lf
+jest.config.js text eol=lf
+package-lock.json text eol=lf
+package.json text eol=lf
+scripts/apex/hello.apex text eol=lf
+scripts/soql/account.soql text eol=lf
+sfdx-project.json text eol=lf
